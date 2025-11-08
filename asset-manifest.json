@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/boiler-budget/static/css/main.f855e6bc.css",
-    "main.js": "/boiler-budget/static/js/main.9236103c.js",
+    "main.js": "/boiler-budget/static/js/main.68ad3afc.js",
     "static/js/453.0e18839f.chunk.js": "/boiler-budget/static/js/453.0e18839f.chunk.js",
-    "static/media/logo.svg": "/boiler-budget/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/boiler-budget/index.html",
     "main.f855e6bc.css.map": "/boiler-budget/static/css/main.f855e6bc.css.map",
-    "main.9236103c.js.map": "/boiler-budget/static/js/main.9236103c.js.map",
+    "main.68ad3afc.js.map": "/boiler-budget/static/js/main.68ad3afc.js.map",
     "453.0e18839f.chunk.js.map": "/boiler-budget/static/js/453.0e18839f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9236103c.js"
+    "static/js/main.68ad3afc.js"
   ]
 }
